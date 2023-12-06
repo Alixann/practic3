@@ -16,8 +16,6 @@ body {
   overflow-x: hidden;
 }
 
-
-
 .content-wrapper {
   display: flex;
   padding: 0;
@@ -32,12 +30,12 @@ body {
   margin: 0;
 }
 
-.content-page-active{
+.content-page-active {
   transition: all 0.5s;
   overflow: hidden;
   height: 100vh;
   opacity: 0.2;
-  pointer-events: none
+  pointer-events: none;
 }
 
 .content-header {
@@ -168,7 +166,7 @@ img {
   font-family: "TT Lakes";
   margin: 15px 0;
   color: #7e7e82;
-  padding: 16px ;
+  padding: 16px;
 }
 
 .header-2 {
@@ -196,7 +194,7 @@ img {
 
 /* repair-brend */
 
-.swiper-repair-wrapper{
+.swiper-repair-wrapper {
   margin: 15px 0;
 }
 
@@ -222,11 +220,9 @@ img {
   font-weight: 700;
 }
 
-
 /* Cost */
 
-
-.cost-section{
+.cost-section {
   margin: 0 15px;
 }
 
@@ -246,7 +242,6 @@ img {
 
   font-family: "TT Lakes Regular";
 }
-
 
 .text-table {
   margin: 0;
@@ -302,7 +297,7 @@ img {
   max-width: 470px;
 }
 
-.more{
+.more {
   margin-top: 16px;
   color: #1b1c21;
   font-weight: 600;

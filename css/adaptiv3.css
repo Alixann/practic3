@@ -185,6 +185,11 @@
     max-height: 200px;
   }
 
+
+.more{
+  width: 1000px;
+}  
+
   /* repair-brend */
   .swiper-repair-wrapper {
     grid-template-columns: repeat(4, 1fr);

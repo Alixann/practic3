@@ -6,8 +6,8 @@ const swiper = new Swiper('.swiper', {
 	observer: true,
 	breakpoints: {
 		768: {
-			enabled: false,
-         spaceBetween: 0
+		enabled: false,
+        spaceBetween: 0
 		},
 	},
 	pagination: {
