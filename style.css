@@ -1,0 +1,45 @@
+/* Body */
+
+*,
+*::after,
+*::before{
+   box-sizing: border-box;
+}
+
+
+
+/* Wrapper */
+
+.wrapper{
+   background-color: #fff;
+}
+
+/* Swiper */
+
+.swiper-wrapper-brend{
+   padding: 15px;
+}
+
+.swiper-slide-brend-item{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 240px;
+   height: 72px;
+   border: 1px solid #eaeaea;
+   border-radius: 6px;
+   background: #fff;
+   padding: 10px;
+}
+
+.swiper-slide-brend-item:hover {
+   cursor: pointer;
+ }
+
+.pagination-brend{
+   position: static;
+   display: flex;
+   align-self: center;
+   justify-content: center;
+   margin: 15px 0;
+}
